@@ -42,8 +42,8 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "usnusmsxuh",
+    "favicon": "@PROJECT_PATH@/assets/images/1200px-northeastern-university-seal.svg_1.png",
+    "mbrsiteDomain": "rohan-webpage",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
