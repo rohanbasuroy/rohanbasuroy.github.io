@@ -1324,6 +1324,13 @@ a {
 .cid-tCYlpPVHj3 .mbr-text {
   color: #555555;
 }
+.cid-tCYlpPVHj3 .card-title {
+  color: #353535;
+}
+.cid-tCYlpPVHj3 .mbr-text,
+.cid-tCYlpPVHj3 .mbr-section-btn {
+  color: #000000;
+}
 .cid-tCYnKbOh9o {
   padding-top: 3rem;
   padding-bottom: 2rem;
